@@ -6,7 +6,6 @@
 
 #include "MQTTClient.h"
 
-
 // GLOBAL VARIABLES
 
 WiFiInterface *wifi;
